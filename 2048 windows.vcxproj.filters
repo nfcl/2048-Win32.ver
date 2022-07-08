@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Debug\素材\image\图标.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\MenuBackGround.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number0.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\number9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(0).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(1).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(2).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(3).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(4).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(5).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(6).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(7).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(8).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(9).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(10).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(11).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(12).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(13).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(14).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(15).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\picture(16).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\WhiteBackGround.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="debug\素材\image\bitmap30.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="debug\素材\image\bitmap31.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\BackGround5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="debug\素材\image\bitmap3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Debug\素材\image\Result.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
